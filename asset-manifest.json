@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/otsu_udoka/static/css/main.80b4d629.css",
+    "main.js": "/otsu_udoka/static/js/main.59d9bba1.js",
+    "static/media/smartHotel.png": "/otsu_udoka/static/media/smartHotel.cc73eb45aea21ef3221b.png",
+    "static/media/my office.jpg": "/otsu_udoka/static/media/my office.0222c1331deaf14a53a3.jpg",
+    "static/media/topEstate.png": "/otsu_udoka/static/media/topEstate.705939a3f54155ac69b0.png",
+    "static/media/udoka_portfolio.png": "/otsu_udoka/static/media/udoka_portfolio.eee3a9e4d894ccb91da7.png",
+    "static/media/phlox ecom.jpg": "/otsu_udoka/static/media/phlox ecom.c9f9aaf3191e3c5c0e53.jpg",
+    "static/media/eduma school.jpg": "/otsu_udoka/static/media/eduma school.15204dab82b4ee311c6e.jpg",
+    "static/media/udoka.png": "/otsu_udoka/static/media/udoka.76e403a4fd813d977d97.png",
+    "static/media/turan outfit store.jpg": "/otsu_udoka/static/media/turan outfit store.d598ae53048825404c50.jpg",
+    "static/media/buzzstone blog.jpg": "/otsu_udoka/static/media/buzzstone blog.b08ea5d84055d1dcfced.jpg",
+    "static/media/udoka the web developer.jpg": "/otsu_udoka/static/media/udoka the web developer.7fcf4f37488f00aec6ba.jpg",
+    "static/media/mooboo store.jpg": "/otsu_udoka/static/media/mooboo store.d0bc7b3d8dfbfa42faae.jpg",
+    "static/media/code.jpeg": "/otsu_udoka/static/media/code.dafb8b9758cea55a123d.jpeg",
+    "static/media/rakibian.jpg": "/otsu_udoka/static/media/rakibian.a279e93faab69e80f307.jpg",
+    "static/media/thompson.jpg": "/otsu_udoka/static/media/thompson.d421afa3f0681841391a.jpg",
+    "static/media/turan.jpg": "/otsu_udoka/static/media/turan.8f5239d45b90031f0c60.jpg",
+    "static/media/philomena.jpg": "/otsu_udoka/static/media/philomena.3b920de9dc03908e2ac9.jpg",
+    "static/media/john.jpg": "/otsu_udoka/static/media/john.9bb4dd3e6993662d5147.jpg",
+    "static/media/lynda.jpg": "/otsu_udoka/static/media/lynda.41a96cd517a2b5c5a3b2.jpg",
+    "index.html": "/otsu_udoka/index.html",
+    "main.80b4d629.css.map": "/otsu_udoka/static/css/main.80b4d629.css.map",
+    "main.59d9bba1.js.map": "/otsu_udoka/static/js/main.59d9bba1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80b4d629.css",
+    "static/js/main.59d9bba1.js"
+  ]
+}
